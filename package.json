@@ -1,6 +1,3 @@
-// 20211023164259
-// https://raw.githubusercontent.com/semantic-release/semantic-release/master/package.json
-
 {
   "name": "semantic-release",
   "description": "Automated semver compliant package publishing",
